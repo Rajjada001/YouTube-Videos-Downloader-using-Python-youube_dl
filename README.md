@@ -5,7 +5,7 @@
 <ul>
   <li><a href="https://www.python.org/downloads/" target="_blank"> Download Python </a></li>
   <li><a href="https://pypi.org/project/youtube_dl/" target="_blank">Install YouTube_dl </a></li>
-  <li> Extract Ffmpeg in the rar folder </li>
+  <li> Extract Ffmpeg file i.e., <code>.rar</code> file in order to connect both audio and video. </li>
 </ul>
 
 ## Procedure
